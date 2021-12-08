@@ -1,50 +1,56 @@
-# Repository made for learning basics of typescript and cypress
+<h1 align="center" id="title">Typescript and cypress learning</h1>
 
-Cypress and typescript learnings
+<p align="center"><img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1638983717/Blogimages/Screenshot_2021-12-08_at_10.43.11_PM_bxdsgm.png" alt="project-image"></p>
 
-## Available Scripts
+<p align="center"><img src="https://img.shields.io/github/license/saurabhnative/cypress-typescript-learning" alt="shields"></p>
 
-In the project directory, you can run:
+<h2>🚀 Demo</h2>
 
-### `yarn start`
+[https://test-cypress-typescript-site.netlify.app/](https://test-cypress-typescript-site.netlify.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<h2>Project Screenshots:</h2>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1638983960/Blogimages/Screenshot_2021-12-08_at_10.49.12_PM_umq3gk.png" alt="project-screenshot" width="600" height="400/">
 
-### `yarn test`
+<h2>🧐 Features</h2>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Here're some of the project's best features:
 
-### `yarn build`
+- Typescript
+- Tailwindcss
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2>🛠️ Installation Steps:</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p>1. Runs the app in the development mode.</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+yarn start
+```
 
-## `yarn cypress open-ct`
+<p>2. Launches the test runner in the interactive watch mode.</p>
 
-Runs cypress server for testing
+```
+yarn test
+```
 
-### `yarn eject`
+<p>3. Builds the app for production to the `build` folder.</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```
+yarn build
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p>4. Runs cypress server for testing</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```
+yarn cypress open-ct
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<h2>💻 Built with</h2>
 
-## Learn More
+Technologies used in the project:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- React.js
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT License
