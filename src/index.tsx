@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import "tailwindcss/dist/tailwindcss.min.css";
+import "tailwindcss/dist/tailwind.min.css";
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(

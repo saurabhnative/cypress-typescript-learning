@@ -26,7 +26,7 @@ function App() {
       <div>
         <Header />
       </div>
-      <div className="App grid grid-cols-3 justify-items-center">
+      <div className="App grid grid-cols-1 justify-items-center lg:grid-cols-3">
         {renderUserDetails()}
       </div>
     </>
